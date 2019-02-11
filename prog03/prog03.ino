@@ -56,7 +56,7 @@ digitalWrite(led0, HIGH);    // posar a 5V el pin 5
   delay(500);                  // es queden leds 500ms apagats
 
           }
-          else
+        else
           {
   digitalWrite(led0, HIGH);    // posar a 5V el pin 5
   digitalWrite(led1, HIGH);    // posar a 5V el pin 6
